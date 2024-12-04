@@ -15,17 +15,17 @@ Total Renewable Energy: Sum of all renewable energy production sources combined.
 Conventional Hydroelectric Power: Subset of hydroelectric power from conventional methods.
 Biodiesel: Renewable energy production from biodiesel fuel.
 
-#Features
+# Features
 Data is aggregated by year, allowing for trend analysis across renewable energy categories.
 Includes energy production data for major renewable sources like solar, wind, and hydroelectricity.
 Cleaned and formatted for ease of visualization in tools such as Google Looker and Excel.
 Data are in BTU or British Thermal Units in Trillions
 
-#Source
+# Source
 The data originates from public and proprietary sources related to energy production statistics. It has been processed to remove redundant or irrelevant fields, focusing on renewable energy categories.
 
 # 🔍 How to Use
-Download the dataset (aggregated_energy_data.csv).
+Download the dataset (filtered_energy_data_2010_onwards.csv).
 Import it into your analysis or visualization tools, such as Python (using pandas), Google Looker, Tableau, or Excel.
 Use it to create area charts, trend lines, or perform comparative analyses of renewable energy categories.
 
